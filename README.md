@@ -1,4 +1,5 @@
 ## Hi there 👋
+https://docs.google.com/document/d/1-CMEbeps-4Pn4jroxPwqUumMyK0nvau13CBbo-ssBYI/edit?usp=sharing
 https://docs.google.com/document/d/1bYceMCDtn5C3KVGa7SGu9xQRce2JGXWLVVwl85OKJ2s/edit?tab=t.0#heading=h.gjdgxs
 <!--
 **lordpoltosik/lordpoltosik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
